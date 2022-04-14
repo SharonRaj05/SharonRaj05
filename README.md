@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @SharonRaj05
+-https://csharp-station.com/wp-content/uploads/2019/08/Person-coding-on-laptop.jpg
+-  👋 Hi, I’m @SharonRaj05
 - 👀 I’m interested in WebDevelopment and solidity.
 - 🌱 I’m currently learning solidity.
 - 💞️ I’m looking to collaborate on Decentralized College Campus Guide.
