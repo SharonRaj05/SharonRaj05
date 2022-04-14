@@ -1,4 +1,6 @@
 ![Person-coding-on-laptop](https://user-images.githubusercontent.com/103627046/163377847-a5e384f9-a056-4288-8fd1-e854d7b674d9.jpg)
+<h1>Hello World! 👋, I'm Sharon Raj</h1>
+<h2>A passionate student from India</h2>
 -  👋 Hi, I’m @SharonRaj05
 - 👀 I’m interested in WebDevelopment and solidity.
 - 🌱 I’m currently learning solidity.
