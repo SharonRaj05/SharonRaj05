@@ -1,5 +1,5 @@
 ![Person-coding-on-laptop](https://user-images.githubusercontent.com/103627046/163377847-a5e384f9-a056-4288-8fd1-e854d7b674d9.jpg)
-<img align = "right" src = "https://media.giphy.com/media/B6wdZEDP2TXRkA83o5/giphy.gif" width = " 300" >
+<img align = "right" src = "https://giphy.com/clips/elbformat-hamburg-engineer-binaryengineer-NiwZ9THiCOodYySoSh" width = " 300" >
 <h1 align = "center" >Hello World! 👋, I'm Sharon Raj</h1>
 <hr>
 <h2 align = "center">A passionate student from India</h2>
